@@ -73,7 +73,8 @@ section {
 }
 
 .container {
-  width: 50%;
+  width: 90%;
+  max-width: 620px;
   margin: 0 auto;
   border: 2px solid magenta;
 }
@@ -81,4 +82,8 @@ section {
 .section-two {
   background: #2e354f;
   color: #fff;
+}
+
+img {
+  width: 100%;
 }
