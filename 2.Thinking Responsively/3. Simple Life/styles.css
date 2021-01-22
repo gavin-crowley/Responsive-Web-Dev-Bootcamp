@@ -16,6 +16,7 @@ img {
   display: block;
 }
 
+/* On about page  */
 .image-full {
   max-height: 300px;
   width: 100%;
@@ -51,6 +52,7 @@ a {
 
 a:hover,
 a:focus {
+  /* color: red; */
   color: #143774;
 }
 
