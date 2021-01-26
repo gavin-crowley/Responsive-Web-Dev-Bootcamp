@@ -69,7 +69,8 @@ strong {
    ================= */
 
 .intro {
-  background-image: url(https://picsum.photos/565/809);
+  background-image: url(img/dark-ribs.jpg);
+  /* background-image: url(https://picsum.photos/565/809); */
   background-color: #404040;
   background-blend-mode: overlay;
   background-size: cover;
